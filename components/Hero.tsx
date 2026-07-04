@@ -5,7 +5,7 @@ export function Hero() {
   const { hero } = site;
 
   return (
-    <section id="top" className="mx-auto max-w-5xl px-5 pb-20 pt-10 sm:px-7 sm:pb-24 sm:pt-24">
+    <section id="top" className="mx-auto max-w-5xl px-5 pb-20 pt-8 sm:px-7 sm:pb-24 sm:pt-24">
       <div className="max-w-4xl">
         <p className="mb-6 text-sm font-medium uppercase text-moss">
           {hero.location}
@@ -17,7 +17,7 @@ export function Hero() {
           {hero.intro}
         </p>
 
-        <div className="mt-10 flex flex-wrap items-center gap-3">
+        <div className="mt-8 flex flex-wrap items-center gap-3 sm:mt-10">
           <a
             href={hero.primaryCta.href}
             className="inline-flex min-h-12 items-center justify-center rounded-md bg-ink px-5 text-sm font-medium text-white transition-colors hover:bg-moss focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-moss"
