@@ -88,7 +88,7 @@ export default function Home() {
                     <a
                       href={link.href}
                       aria-label={`Contact Manos via ${link.label}`}
-                      className="inline-flex min-h-12 w-full items-center justify-center rounded-md border border-line bg-white/55 px-5 text-sm font-medium text-ink transition-colors hover:border-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-moss sm:w-auto"
+                      className="inline-flex min-h-12 w-full items-center justify-center rounded-md border border-line bg-ivory/75 px-5 text-sm font-medium text-ink transition-colors hover:border-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-moss sm:w-auto"
                     >
                       {link.label}
                     </a>

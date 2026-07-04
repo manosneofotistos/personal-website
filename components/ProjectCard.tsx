@@ -14,7 +14,7 @@ export function ProjectCard({
   href
 }: ProjectCardProps) {
   return (
-    <article className="rounded-lg border border-line bg-white/55 p-6 transition-colors hover:border-ink/30">
+    <article className="rounded-lg border border-line bg-ivory/75 p-6 transition-colors hover:border-ink/30">
       <p className="text-xs font-medium uppercase text-clay">{category}</p>
       <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
         <h3 className="text-2xl font-semibold text-ink">{title}</h3>

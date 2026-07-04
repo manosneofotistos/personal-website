@@ -8,12 +8,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        paper: "#f8f7f3",
+        paper: "#f4efe6",
         ink: "#171717",
-        muted: "#65625c",
-        line: "#dedbd2",
+        muted: "#686157",
+        line: "#d8cfc1",
         moss: "#496f5d",
-        clay: "#9b634d"
+        clay: "#9b634d",
+        ivory: "#fbf8f1"
       },
       fontFamily: {
         sans: [
@@ -27,7 +28,7 @@ module.exports = {
         ]
       },
       boxShadow: {
-        soft: "0 18px 60px rgba(23, 23, 23, 0.07)"
+        soft: "0 18px 60px rgba(55, 42, 28, 0.08)"
       }
     }
   },
