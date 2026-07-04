@@ -5,7 +5,7 @@ export function Hero() {
   const { hero } = site;
 
   return (
-    <section id="top" className="mx-auto max-w-5xl px-5 pb-20 pt-16 sm:px-7 sm:pb-24 sm:pt-24">
+    <section id="top" className="mx-auto max-w-5xl px-5 pb-20 pt-10 sm:px-7 sm:pb-24 sm:pt-24">
       <div className="max-w-4xl">
         <p className="mb-6 text-sm font-medium uppercase text-moss">
           {hero.location}
