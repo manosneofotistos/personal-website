@@ -47,21 +47,21 @@ export const site = {
   ],
   projects: [
      {
-      category: "Analytics systems / 2026",
+      category: "Data product / 2026",
       title: "Amazon Seller Expansion Intelligence Platform",
       description:
         "A large-scale data engineering and decision intelligence platform for European marketplace expansion, processing roughly 1.5B rows on a monthly cadence to estimate revenue potential, attribute economic impact to expansion blockers, and surface business opportunities for marketplace expansion strategy.",
       tags: ["Data Engineering", "Business Intelligence", "Spark"]
     },
     {
-      category: "AI education / 2025",
+      category: "AI education / 2025-2026",
       title: "Kriton AI",
       description:
         "Designed two 48-hour programs, Introduction to Computer Science & Machine Learning and Advanced ML & AI, guiding students through portfolio-building projects across medical classification, financial analysis, time series forecasting, image classification, and applied AI.",
       tags: ["AI Education", "Curriculum", "Mentorship"],
     },
     {
-      category: "Research / 2024",
+      category: "Research / 2025",
       title: "LLMs & Game-Theoretic Bluffing",
       description:
         "Research on strategic reasoning and deception in large language models using the Bluffing Game, a dynamic incomplete-information setting that tests how artificial agents bluff, detect deception, adapt under uncertainty, and make sequential decisions.",
