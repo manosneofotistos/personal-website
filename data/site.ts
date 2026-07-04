@@ -58,7 +58,7 @@ export const site = {
       title: "Kriton AI",
       description:
         "Designed two 48-hour programs, Introduction to Computer Science & Machine Learning and Advanced ML & AI, guiding students through portfolio-building projects across medical classification, financial analysis, time series forecasting, image classification, and applied AI.",
-      tags: ["AI Education", "Curriculum", "Mentorship"],
+      tags: ["AI Education", "Mentorship"],
     },
     {
       category: "Research / 2025",
